@@ -1,6 +1,14 @@
+#interest = principal * rate * time
+
+#define the variable
 principal = 1000
-rate = 5
+rate = 0.05
 time = 3
-simple_interest = (principal * rate * time) / 100
-print("Simple Interest:", simple_interest)
-# Output: Simple Interest: 150.0
+#calculate simple interest
+interest = principal * rate * time
+
+#print the result
+print("The simple interest is:", interest)
+# The simple interest is: 150.0
+
+

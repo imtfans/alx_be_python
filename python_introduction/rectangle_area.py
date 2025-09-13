@@ -1,4 +1,4 @@
-#area of a rectangle
+#area of a rectangle = length * width
 
 #variables
 length = 10

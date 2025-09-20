@@ -22,5 +22,6 @@ else:
     elif priority == "medium":
         reminder += " Try to get it done soon, but it’s not urgent."
 
-    # Step 4: Print customized reminder
-print("\nReminder:", reminder)
+ # Step 4: Print customized reminder
+print(f"Reminder: {reminder}")
+   
